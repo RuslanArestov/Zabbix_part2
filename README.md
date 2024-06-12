@@ -53,7 +53,7 @@
 Требования к результату
 Результат данного задания сдавайте вместе с заданием 3
 
-![alt text](https://github.com/RuslanArestov/Zabbix_part2/blob/main/images/latest_data2.png
+![alt text](https://github.com/RuslanArestov/Zabbix_part2/blob/main/images/latest_data2.png)
 
 ### **Задание 3**
 Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.
@@ -68,7 +68,7 @@
 
 **Решение**
 
-![alt text](https://github.com/RuslanArestov/Zabbix_part2/blob/main/images/latest_data.png
+![alt text](https://github.com/RuslanArestov/Zabbix_part2/blob/main/images/latest_data.png)
 
 ### **Задание 4**
 Создайте свой кастомный дашборд.
@@ -82,7 +82,7 @@
 
 **Решение**
 
-https://github.com/RuslanArestov/Zabbix_part2/blob/main/images/dashbards.png
+![alt text](https://github.com/RuslanArestov/Zabbix_part2/blob/main/images/dashbards.png)
 
 ### **Задание 5* со звёздочкой**
 Создайте карту и расположите на ней два своих хоста.
@@ -104,7 +104,7 @@ https://github.com/RuslanArestov/Zabbix_part2/blob/main/images/dashbards.png
 
 **Решение**
 
-https://github.com/RuslanArestov/Zabbix_part2/blob/main/images/script.png
+![alt text](https://github.com/RuslanArestov/Zabbix_part2/blob/main/images/script.png)
 
 ## **Задание 7* со звёздочкой**
 Доработайте Python-скрипт из лекции, создайте для него UserParameter и прикрепите его к созданному вами ранее шаблону. Скрипт должен:
@@ -125,8 +125,8 @@ https://github.com/RuslanArestov/Zabbix_part2/blob/main/images/script.png
 
 **Решение**
 
-https://github.com/RuslanArestov/Zabbix_part2/blob/main/images/Discover.png
-https://github.com/RuslanArestov/Zabbix_part2/blob/main/images/Discover_action.png
+![alt text](https://github.com/RuslanArestov/Zabbix_part2/blob/main/images/Discover.png)
+![alt text](https://github.com/RuslanArestov/Zabbix_part2/blob/main/images/Discover_action.png)
 
 ## **Задание 9* со звёздочкой**
 Доработайте скрипты Vagrant для 2-х агентов, чтобы они были готовы к автообнаружению сервером, а также имели на борту разработанные вами ранее параметры пользователей.
